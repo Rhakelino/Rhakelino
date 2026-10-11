@@ -2,8 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Fullstack+Web+Developer;React+%26+Next.js+Enthusiast;Fresh+Graduate+S1+Teknik+Informatika;Crafting+Solutions+at+KaellDev)](https://git.io/typing-svg)
 
-Fresh Graduate S1 Teknik Informatika dari **UPI YPTK Padang**. Fokus di **Web Development (Frontend/Fullstack)**. Suka bangun aplikasi yang nyelesein masalah nyata, mulai dari streaming anime sampe sistem keuangan.
-
+Fresh Graduate S1 Teknik Informatika dari **UPI YPTK Padang**. Fokus di **Web Development (Frontend/Fullstack)**. Suka bangun aplikasi yang nyelesein masalah nyata.
 ### 🛠️ Tech Stack & Tools
 <p align="left">
   </p>
